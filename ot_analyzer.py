@@ -1,3 +1,7 @@
+# Author: Jordi Ubach @hack3007
+# Email: jordiubach@protonmail.com
+# License: Open source
+# Disclaimer: The use of this tool is free and under the responsibility of each user.
 import sys
 import csv
 import os
