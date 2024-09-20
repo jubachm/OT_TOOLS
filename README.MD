@@ -19,8 +19,8 @@ OT Analyzer is a Python script that analyzes PCAP (Packet Capture) files to iden
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ot-analyzer.git
-   cd ot-analyzer
+   git clone https://github.com/jubachm/OT_TOOLS.git
+   cd ot_tools
    ```
 
 2. Install the required dependencies:
